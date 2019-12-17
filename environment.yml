@@ -20,6 +20,7 @@ dependencies:
   - intake-xarray
   - zarr
   - xgcm
+  - nc-time-axis
   - pip
   - pip:
     - git+https://github.com/intake/filesystem_spec.git@master
