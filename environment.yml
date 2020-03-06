@@ -15,6 +15,7 @@ dependencies:
   - h5py
   - h5netcdf
   - regionmask
+  - esmpy=7.1.0
   - xesmf
   - intake
   - intake-xarray
